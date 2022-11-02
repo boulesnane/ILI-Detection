@@ -1,6 +1,6 @@
 # Influenza-Like Illness Detection from Arabic Facebook Posts Based on Sentiment Analysis and 1D Convolutional Neural Network
 
-Paper: https://doi.org/......
+Paper: https://doi.org/10.3390/math10214089
 
 If you use the data or code from this repository, please cite this paper:
 ```
