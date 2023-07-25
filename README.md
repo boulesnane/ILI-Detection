@@ -18,3 +18,6 @@ ABSTRACT = {The recent large outbreak of infectious diseases, such as influenza-
 DOI = {10.3390/math10214089}
 }
 ```
+
+# Download the Complete Code
+The source code accessible under request from : https://aboulesnane.net/contact/
